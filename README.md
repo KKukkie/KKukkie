@@ -7,6 +7,9 @@
 ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
 ![Rtmp](https://img.shields.io/badge/RTMP-%23F40D12?style=for-the-badge&logo=rtmp&logoColor=white)
 ![Rtcp](https://img.shields.io/badge/RTCP-%23006600?style=for-the-badge&logo=rtcp&logoColor=white)
+![Dtls](https://img.shields.io/badge/DTLS-%23FF3366?style=for-the-badge&logo=dtls&logoColor=white)
+![Rtsp](https://img.shields.io/badge/RTSP-%2300205B?style=for-the-badge&logo=rtsp&logoColor=white)
+![Hls](https://img.shields.io/badge/HLS-%23FC4C02?style=for-the-badge&logo=hls&logoColor=white)
   
 ## 💪🏼 DB
 
