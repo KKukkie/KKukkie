@@ -18,6 +18,7 @@
 [![Dtls](https://img.shields.io/badge/DTLS-%23FF3366?style=for-the-badge&logo=dtls&logoColor=white)](https://github.com/James-Jeong/JDTLS)
 [![Rtsp](https://img.shields.io/badge/RTSP-%2300205B?style=for-the-badge&logo=rtsp&logoColor=white)](https://github.com/James-Jeong/JRTSP)
 [![Hls](https://img.shields.io/badge/HLS-%23FC4C02?style=for-the-badge&logo=hls&logoColor=white)](https://github.com/James-Jeong/JRTSP)
+![Netty](https://img.shields.io/badge/NETTY-%23A22846?style=for-the-badge&logo=netty&logoColor=white)
   
 ## 💪🏼 DB
 
