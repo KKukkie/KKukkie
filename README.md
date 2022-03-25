@@ -7,7 +7,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
   
-## 🦿Newtork
+## 💪 Newtork
 
 [![Sip](https://img.shields.io/badge/SIP-%23FFB80B?style=for-the-badge&logo=sip&logoColor=white)](https://github.com/James-Jeong/voip_phone)
 [![Sdp](https://img.shields.io/badge/SDP-%23A5CD39?style=for-the-badge&logo=sdp&logoColor=white)](https://github.com/James-Jeong/SdpManager)
@@ -20,39 +20,39 @@
 [![Hls](https://img.shields.io/badge/HLS-%23FC4C02?style=for-the-badge&logo=hls&logoColor=white)](https://github.com/James-Jeong/JRTSP)
 ![Netty](https://img.shields.io/badge/NETTY-%23A22846?style=for-the-badge&logo=netty&logoColor=white)
   
-## 💪🏼 DB
+## 🍑 DB
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   
-## 💪🏽 Platform
+## 🥝 Platform
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
   
-## SaaS
+## 🍋 SaaS
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
-## IDE
+## 🍓 IDE
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   
-## OS
+## 🍣 OS
 
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
   
-## IOT
+## 🍕 IOT
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   
-## CI/CD
+## 🍔 CI/CD
 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
