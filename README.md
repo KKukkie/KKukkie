@@ -1,3 +1,9 @@
+# I'm working on Network Programmer of
+## 1. Mobile Telecommunication Signaling & Audio relaying
+## 2. Video & Audio Streaming
+
+  
+  
 ## 🦾 Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
