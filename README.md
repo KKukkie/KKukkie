@@ -1,8 +1,7 @@
-#  I'm working on Network Programmer of
+# 🥷 Professional field
 1. Mobile Telecommunication Signaling & Audio relaying  
 2. Video & Audio Streaming  
-
-  
+--
   
 ## 🦾 Languages
 
