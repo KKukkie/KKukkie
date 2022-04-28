@@ -74,4 +74,5 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%23008FC7?style=for-the-badge&logo=hevc&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23A22846?style=for-the-badge&logo=fsm&logoColor=white)
   
