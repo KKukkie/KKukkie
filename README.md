@@ -75,4 +75,6 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%23008FC7?style=for-the-badge&logo=hevc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23A22846?style=for-the-badge&logo=fsm&logoColor=white)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23FF3366?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://github.com/James-Jeong/CI-CD-NOTE)
+[![Openstack](https://img.shields.io/badge/Openstack-%2300205B?style=for-the-badge&logo=Openstack&logoColor=white)](https://github.com/James-Jeong/Openstack_note)
   
