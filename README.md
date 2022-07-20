@@ -12,9 +12,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
-## 🦾 Framework
+## 🦾 Framework (inexperienced)
 
 ![JavaSpring](https://img.shields.io/badge/JavaSpring-%23333333.svg?style=for-the-badge&logo=JavaSpring&logoColor=white) 
+![JPA](https://img.shields.io/badge/JPA-%23333333.svg?style=for-the-badge&logo=JPA&logoColor=white) 
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%23333333.svg?style=for-the-badge&logo=SpringBoot&logoColor=white) 
+![SpringDataJpa](https://img.shields.io/badge/SpringDataJpa-%23333333.svg?style=for-the-badge&logo=SpringDataJpa&logoColor=white) 
   
   
 ## 💪 Newtork
