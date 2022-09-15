@@ -18,6 +18,7 @@
 ![JPA](https://img.shields.io/badge/JPA-%23333333.svg?style=for-the-badge&logo=JPA&logoColor=white) 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23333333.svg?style=for-the-badge&logo=SpringBoot&logoColor=white) 
 ![SpringDataJpa](https://img.shields.io/badge/SpringDataJpa-%23333333.svg?style=for-the-badge&logo=SpringDataJpa&logoColor=white) 
+![QueryDSL](https://img.shields.io/badge/QueryDSL-%23333333.svg?style=for-the-badge&logo=QueryDSL&logoColor=white) 
   
   
 ## 💪 Newtork
