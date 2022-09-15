@@ -21,7 +21,7 @@
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-%23333333.svg?style=for-the-badge&logo=QueryDSL&logoColor=white) 
   
   
-## 💪 Newtork
+## 💪 Network
 
 [![Sip](https://img.shields.io/badge/SIP-%23FFB80B?style=for-the-badge&logo=sip&logoColor=white)](https://github.com/James-Jeong/voip_phone)
 [![Rtp](https://img.shields.io/badge/RTP-%237952B3?style=for-the-badge&logo=rtp&logoColor=white)](https://github.com/James-Jeong/voip_phone)
