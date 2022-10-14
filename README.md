@@ -3,7 +3,7 @@
 2. Mobile Telecommunication Signaling & Audio relaying  
 3. Video & Audio Streaming
   
-![스크린샷 2022-10-14 오후 3 17 35](https://user-images.githubusercontent.com/37236920/195775845-236c741f-41f6-48d9-bdd9-df132c3785dd.png)
+![스크린샷 2022-10-14 오후 3 42 22](https://user-images.githubusercontent.com/37236920/195779791-7e6b3c0d-20c2-455f-ae14-a74b9a0fa4c9.png)
   
 ## 🦾 Languages
 
