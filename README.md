@@ -69,8 +69,8 @@
   
 ## 🍣 OS
 
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![CentOS 7](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) 
+![Ubuntu 18, 20](https://img.shields.io/badge/ubuntu-FCC624?style=for-the-badge&logo=ubuntu&logoColor=black) 
   
 ## 🍕 IOT
 
