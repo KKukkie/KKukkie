@@ -58,6 +58,7 @@
 ## 🍋 IaaS
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AZURE](https://img.shields.io/badge/Azure-vm%20%26%20storage-orange)
   
 ## 🍓 IDE
 
