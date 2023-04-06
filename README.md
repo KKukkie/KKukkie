@@ -2,6 +2,7 @@
 1. API Server Backend
 2. Mobile Telecommunication Signaling & Audio relaying  
 3. Video & Audio Streaming
+4. DevOps (Managing infra, ci-cd > pnf, vnf, cnf)
   
 ![스크린샷 2022-10-14 오후 3 42 22](https://user-images.githubusercontent.com/37236920/195779791-7e6b3c0d-20c2-455f-ae14-a74b9a0fa4c9.png)
   
