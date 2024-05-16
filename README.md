@@ -1,6 +1,6 @@
 # 🥷 Professional field
 1. Backend engineering
-4. DevOps
+2. DevOps
   
 ![스크린샷 2022-10-14 오후 3 42 22](https://user-images.githubusercontent.com/37236920/195779791-7e6b3c0d-20c2-455f-ae14-a74b9a0fa4c9.png)
   
@@ -18,20 +18,6 @@
 ![SpringDataJpa](https://img.shields.io/badge/SpringDataJpa-%23333333.svg?style=for-the-badge&logo=SpringDataJpa&logoColor=white) 
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-%23333333.svg?style=for-the-badge&logo=QueryDSL&logoColor=white) 
   
-  
-## 💪 Network
-
-[![Sip](https://img.shields.io/badge/SIP-%23FFB80B?style=for-the-badge&logo=sip&logoColor=white)](https://github.com/James-Jeong/voip_phone)
-[![Rtp](https://img.shields.io/badge/RTP-%237952B3?style=for-the-badge&logo=rtp&logoColor=white)](https://github.com/James-Jeong/voip_phone)
-[![Dash](https://img.shields.io/badge/DASH-%231A86FD?style=for-the-badge&logo=dash&logoColor=white)](https://github.com/James-Jeong/JDASH)
-[![Rtmp](https://img.shields.io/badge/RTMP-%23F40D12?style=for-the-badge&logo=rtmp&logoColor=white)](https://github.com/James-Jeong/JRTMP_SERVER)
-[![Rtcp](https://img.shields.io/badge/RTCP-%23006600?style=for-the-badge&logo=rtcp&logoColor=white)](https://github.com/James-Jeong/JRTCP)
-[![Dtls](https://img.shields.io/badge/DTLS-%23FF3366?style=for-the-badge&logo=dtls&logoColor=white)](https://github.com/James-Jeong/JDTLS)
-[![RtspServer](https://img.shields.io/badge/RTSPServer-%2300205B?style=for-the-badge&logo=rtsp_server&logoColor=white)](https://github.com/James-Jeong/JRTSP)
-[![RtspClient](https://img.shields.io/badge/RTSPClient-%2300205B?style=for-the-badge&logo=rtsp_client&logoColor=white)](https://github.com/James-Jeong/JRTSP_CLIENT)
-[![Hls](https://img.shields.io/badge/HLS-%23FC4C02?style=for-the-badge&logo=hls&logoColor=white)](https://github.com/James-Jeong/JRTSP)
-![Netty](https://img.shields.io/badge/NETTY-%23A22846?style=for-the-badge&logo=netty&logoColor=white)
-  
 ## 💎 Handmade Library
 
 [![Tdd](https://img.shields.io/badge/TDD-%23005571?style=for-the-badge&logo=tdd&logoColor=white)](https://github.com/James-Jeong/ttlib)
@@ -45,7 +31,6 @@
   
 ## 🍑 DB
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   
@@ -54,7 +39,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
   
-## 🍋 IaaS
+## 🍋 Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AZURE](https://img.shields.io/badge/Azure-vm%20%26%20storage-orange)
@@ -62,28 +47,17 @@
 ## 🍓 IDE
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   
 ## 🍣 OS
 
 ![CentOS 7](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) 
 ![Ubuntu 18, 20](https://img.shields.io/badge/ubuntu-FCC624?style=for-the-badge&logo=ubuntu&logoColor=black) 
   
-## 🍕 IOT
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-  
 ## 🍔 CI/CD
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Harbor](https://img.shields.io/badge/Habor-harbor-blue) 
-![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%23008FC7?style=for-the-badge&logo=hevc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23A22846?style=for-the-badge&logo=fsm&logoColor=white)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23FF3366?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://github.com/James-Jeong/CI-CD-NOTE)
-[![Openstack](https://img.shields.io/badge/Openstack-%2300205B?style=for-the-badge&logo=Openstack&logoColor=white)](https://github.com/James-Jeong/Openstack_note)
   
