@@ -1,18 +1,14 @@
 # 🥷 Professional field
-1. Backend engineering
-2. DevOps
+Backend Full Engineering (BFE)
   
   
 ## 🦾 Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
 ## 🦾 Java Spring
 
-![JPA](https://img.shields.io/badge/JPA-%23333333.svg?style=for-the-badge&logo=JPA&logoColor=white) 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23333333.svg?style=for-the-badge&logo=SpringBoot&logoColor=white) 
 ![SpringDataJpa](https://img.shields.io/badge/SpringDataJpa-%23333333.svg?style=for-the-badge&logo=SpringDataJpa&logoColor=white) 
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-%23333333.svg?style=for-the-badge&logo=QueryDSL&logoColor=white) 
@@ -31,7 +27,6 @@
 ## 🍑 DB
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   
 ## 🥝 MessageQueue
 
@@ -50,8 +45,7 @@
   
 ## 🍣 OS
 
-![CentOS 7](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) 
-![Ubuntu 18, 20](https://img.shields.io/badge/ubuntu-FCC624?style=for-the-badge&logo=ubuntu&logoColor=black) 
+![Linux](https://img.shields.io/badge/linux?style=for-the-badge&logo=linux&logoColor=black) 
   
 ## 🍔 CI/CD
 
